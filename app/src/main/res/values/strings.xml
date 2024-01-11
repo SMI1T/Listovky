@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">CarSharing</string>
+    <string name="colHours">Количество страниц:</string>
+    <string name="button">OK</string>
+    <string name="colHint">Введите значение</string>
+    <string name="RadioButton">А4 (10 руб./стр)</string>
+    <string name="RadioButton2">А3 (30 руб./стр)</string>
+    <string name="RadioButton3">А1 (100 руб./стр)</string>
+
+</resources>
